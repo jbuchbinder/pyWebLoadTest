@@ -1,0 +1,7 @@
+pyWebLoadTest
+jeff@freemedsoftware.org
+========================
+
+Randomizing web-load testing tool. Reads a list of URLs from a file, then
+spawns a specified number of threads and instances.
+
